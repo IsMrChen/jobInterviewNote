@@ -4,4 +4,4 @@
 <h1 align="center">jobInterviewNote</h1>
 
 [GitHub](https://github.com/IsMrChen/jobInterviewNote)
-[开始阅读](https://ismrchen.github.io/jobInterviewNote/#/README)
+[开始阅读](https://jongcychen.gitee.io/jobinterviewnote/#/README)
